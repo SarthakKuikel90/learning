@@ -1,0 +1,6 @@
+git clone = Git hub ma vako repositary mero laptop ma copy paste gareko
+git status= file ko condition display garxa
+git add= file lai stage garxa
+git commit -m ""=Message display garxa
+git push= laptop ma vako file github ma push hunxa
+
